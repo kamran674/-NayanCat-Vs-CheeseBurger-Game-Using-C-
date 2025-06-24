@@ -24,6 +24,7 @@ Windows Console API
 ASCII terminal rendering
 
 📂 File Structure
+
 header.h – All class definitions (GameObject, Cheeseburger, NyanCat, PowerUp, Game)
 
 defination.cpp – Function implementations
@@ -31,4 +32,5 @@ defination.cpp – Function implementations
 main.cpp – Entry point (main function)
 
 🧑‍💻 Authors
+
 Malik Kamran Ali
